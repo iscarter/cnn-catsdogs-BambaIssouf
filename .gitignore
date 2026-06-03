@@ -1,0 +1,13 @@
+Cat_Dog_data/
+data/
+*.zip
+*.pt
+*.pth
+checkpoints/
+runs/
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
+drive_folder.html
+cat_dog_folder.html
+
